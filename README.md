@@ -31,7 +31,18 @@ A machine learning project focused on detecting doors in physical environments u
 ---
 
 ## 📈 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esiwehl&show_icons=true&theme=dark&hide=stars,issues)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Esiwehl&show_icons=true&theme=transparent&hide=stars,issues&count_private=true" style="height: 200px;" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esiwehl&langs_count=5&theme=transparent&layout=compact" style="height: 200px;" />
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
