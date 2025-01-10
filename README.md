@@ -1,16 +1,6 @@
-# 👋🏾 Welcome to my GitHub Crib!
+# 👋🏾 Welcome to my GitHub!
 
 Hello there! I'm Eluse, and you've just stepped into my digital workshop. Here’s where I build, experiment, and share projects that merge the worlds of **software** and **hardware**. From tackling real-world problems to exploring curious (and occasionally random) ideas, this is my humble space for creation and growth.
-
----
-
-## 🛠️ Who am I?
-- **Student of Software Engineering** at [Codam Coding College](https://www.codam.nl) (42 Network)  
-- **Electrical Engineering** enthusiast at the University of Applied Sciences Amsterdam  
-- Explorer of **robotics**, **mechatronics**, **intelligent sensors** and **backend development**
-- Forever curious and always up for a challenge (the fun kind, not the impossible ones 😉)
-
----
 
 ## 💡 What happens here?
 This GitHub is my collection of passion projects, learning experiments, and tools that solve real-world problems (or just make life easier). Some highlights:
@@ -20,13 +10,6 @@ A CLI tool to get personalized song recommendations by mixing your favorite trac
 
 ### 🚪 [Computer Vision: Door Detection in Robotics](https://github.com/Esiwehl/ComputerVision_DoorDetection)
 A machine learning project focused on detecting doors in physical environments using computer vision techniques.
-
----
-
-## 🧠 Skills in my toolkit
-- **Languages:** C, C++, C#, Python  
-- **Specialties:** Robotics, Mechatronics, Backend Development
-- **Frameworks/Tools:** OpenCV, TensorFlow, REST APIS, I2C, SPI
 
 ---
 
@@ -42,12 +25,20 @@ A machine learning project focused on detecting doors in physical environments u
   </tr>
 </table>
 
+---
 
+## 🛠️ Who am I?
+- **Student of Software Engineering** at [Codam Coding College](https://www.codam.nl) (42 Network)  
+- **Electrical Engineering** enthusiast at the University of Applied Sciences Amsterdam  
+- Explorer of **robotics**, **mechatronics**, **intelligent sensors** and **backend development**
+- Forever curious and always up for a challenge (the fun kind, not the impossible ones 😉)
 
 ---
 
-## 🤝🏾 Let's connect!
-Whether you're here to collaborate, hire, or just chat about robotics and coding, feel free to reach out!
+## 🧠 Skills in my toolkit
+- **Languages:** C, C++, C#, Python  
+- **Specialties:** Robotics, Mechatronics, Backend Development
+- **Frameworks/Tools:** OpenCV, TensorFlow, REST APIS, I2C, SPI
 
 ---
 
@@ -56,4 +47,4 @@ The brain is like a pattern-recognition machine! When we're learning something n
 
 ---
 
-🏗️ Thanks for visiting my GitHub Crib—feel free to explore, star a project, or just enjoy the view!
+🏗️ Thanks for visiting my GitHub -feel free to explore, star a project, or just enjoy the view!
